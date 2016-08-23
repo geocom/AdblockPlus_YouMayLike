@@ -1,5 +1,5 @@
 [YouMayLike]
-! Version: 1
+! Version: 2
 ! Title: Stops You May Like
 ! Expires: 1 days
 ! Homepage: https://github.com/geocom/AdblockPlus_YouMayLike
