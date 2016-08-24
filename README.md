@@ -2,12 +2,13 @@
 An attempt to kill the You May Like Services but leave other ads alone. For AdBlock Plus
 
 To Install
-# Open ABP Options
-# Click "+ Add filter subscription"
-# Change The Dropdown to Add A Diffrent Subscription
-# Give it a title "You May Like"
-# Set the Filter list location to "https://raw.githubusercontent.com/geocom/AdblockPlus_YouMayLike/master/youmaylike.txt"
-# Click Add
+
+* Open ABP Options
+* Click "+ Add filter subscription"
+* Change The Dropdown to Add A Diffrent Subscription
+* Give it a title "You May Like"
+* Set the Filter list location to "https://raw.githubusercontent.com/geocom/AdblockPlus_YouMayLike/master/youmaylike.txt"
+* Click Add
 
 Push Requests Welcome. 
 If you find one of these services that are not covered. 
