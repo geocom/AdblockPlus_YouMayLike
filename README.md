@@ -10,6 +10,8 @@ To Install
 * Set the Filter list location to "https://raw.githubusercontent.com/geocom/AdblockPlus_YouMayLike/master/youmaylike.txt"
 * Click Add
 
-Push Requests Welcome. 
-If you find one of these services that are not covered. 
+Push Requests Welcome.
+
+If you find one of these services that are not covered.
+
 I'm not going to go into how to do this but you will need to get the URL for the Javascipt file that the website loads. You can do this by looking at the page code around the location of said "ad"
