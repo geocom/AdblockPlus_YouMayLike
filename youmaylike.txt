@@ -1,8 +1,8 @@
-[YouMayLike]
+[Adblock Plus 2.0]
 ! Version: 1
-! Title: Stops You May Like
+! Title: You May Like
 ! Expires: 1 days
 ! Homepage: https://github.com/geocom/AdblockPlus_YouMayLike
-@@||taboola.com^
-@@||zergnet.com^
-@@||revcontent.com^
+||taboola.com^
+||zergnet.com^
+||revcontent.com^
