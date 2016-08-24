@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 1
+! Version: 3
 ! Title: You May Like
 ! Expires: 1 days
 ! Homepage: https://github.com/geocom/AdblockPlus_YouMayLike
